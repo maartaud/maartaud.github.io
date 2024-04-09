@@ -4,7 +4,12 @@ title: About me
 subtitle: 
 ---
 
-My name is Marcelo Souza. 
+<p align="center">
+Who am I?
+</p>
 
-![Este cara sou eu!](/assets/img/me.jpeg){: .mx-auto.d-block :}
-*Hey, this is me?*
+<p align="center">
+    <img src="/assets/img/me.jpeg" alt="Este cara sou eu!">
+    <br>
+    <i>Hey, this is me?</i>
+</p>
