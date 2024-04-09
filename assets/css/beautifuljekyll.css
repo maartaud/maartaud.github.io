@@ -386,6 +386,21 @@ img {
   }
 }
 
+@media (max-width: 600px) {
+  .navbar-custom.top-nav-regular .avatar-container {
+    width: 6.625rem; /* ajuste conforme necessário */
+    bottom: 6.625rem; /* ajuste conforme necessário */
+  }
+
+  .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
+    width: 100%;
+  }
+
+  .navbar-custom.top-nav-regular .avatar-container .avatar-img {
+    width: 100%;
+  }
+}
+
 
 /* --- Footer --- */
 
@@ -760,7 +775,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 @media (max-width: 500px) {
   #header-gh-btns > iframe {
     display: block;
-    margin-bottom: 10.3125rem;
+    margin-bottom: 0.3125rem;
   }
 }
 
