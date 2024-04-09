@@ -388,8 +388,8 @@ img {
 
 @media (max-width: 767px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: auto; /* ajuste conforme necessário */
-    bottom: auto; /* ajuste conforme necessário */
+    width: 100%; /* ajuste conforme necessário */
+    bottom: 100%; /* ajuste conforme necessário */
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
