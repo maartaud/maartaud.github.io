@@ -395,6 +395,7 @@ img {
   .navbar-custom .avatar-container {
     width: 10.25rem;
     bottom: -10.25rem;
+    margin-top: 5rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
