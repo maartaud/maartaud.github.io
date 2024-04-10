@@ -38,10 +38,8 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-family: "Lora";
   font-size: 2.25rem;
   color: #ff4d6d;
-  font-style:italic;
 
 }
 h2 {
