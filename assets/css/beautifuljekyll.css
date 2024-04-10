@@ -305,7 +305,7 @@ img {
 
 @media (max-width: 1199px) {
   .navbar-custom .navbar-collapse {
-    border-top: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
+    border-top: 10px solid {{ site.navbar-border-col | default: "#000000" }};
     margin: 0 -1rem;
   }
 
@@ -775,7 +775,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 @media (max-width: 500px) {
   #header-gh-btns > iframe {
     display: block;
-    margin-bottom: 10.3125rem;
+    margin-bottom: 0.3125rem;
   }
 }
 
