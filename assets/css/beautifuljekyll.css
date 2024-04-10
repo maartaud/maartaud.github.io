@@ -214,6 +214,7 @@ img {
   font-size: 1rem;
   margin: 0.5rem 0;
   padding-bottom: 0.1375rem;
+  margin-bottom: 2rem;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
@@ -393,9 +394,9 @@ img {
 
 @media (max-width: 1199px) {
   .navbar-custom .avatar-container {
-    padding-top: 5rem;
-    width: 13.25rem;
-    bottom: -13.25rem;
+    width: 10.25rem;
+    bottom: -10.25rem;
+    margin-bottom: 5rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
