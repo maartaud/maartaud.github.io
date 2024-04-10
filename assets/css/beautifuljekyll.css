@@ -306,6 +306,7 @@ img {
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:first-child {
     border-top-width: 1px;
   }
+  
 }
 
 @media (max-width: 1199px) {
