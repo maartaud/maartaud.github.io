@@ -386,7 +386,7 @@ img {
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1300px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 12rem; /* ajuste conforme necessário */
     bottom: -12rem; /* ajuste conforme necessário */
