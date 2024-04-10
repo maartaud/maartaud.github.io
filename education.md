@@ -1,7 +1,7 @@
 ---
 layout: infopost
 show-avatar: false
-title: Education
+title: My education
 subtitle:
 ---
 ### Education:
