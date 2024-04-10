@@ -282,7 +282,7 @@ img {
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-  padding: 0.125rem;
+  padding: 0.3rem;
   background-color: {{ site.navbar-col | default: "#ffffff" }};
   text-decoration: none !important;
   font-weight: normal;
@@ -298,7 +298,7 @@ img {
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-    padding-left: 0.325rem;
+    padding-left: 0rem;
     border: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
     border-width: 0 1px 1px;
   }
@@ -321,16 +321,17 @@ img {
 
   .navbar-custom .navbar-nav .nav-link {
     padding: 0.675rem 0 0.675rem 1rem;
-    padding-bottom: 1.8375rem;
+    padding-bottom: 0.1375rem;
 
   }
 
   .navbar-custom .nav-item.dropdown.show {
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(255, 255, 255, 1);
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
-    padding-left: 2rem;
+    padding-left: 0rem;
+    padding: 0.3rem;
   }
 }
 .navbar-custom .navbar-brand:hover,

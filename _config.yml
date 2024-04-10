@@ -21,8 +21,8 @@ author: Marcelo Souza
 
 navbar-links:
   Home: "index"
-  My Research:
-    - Current Projects: "research"
+  Research:
+    - Extratropical cyclones and climate change: "research"
     - Publications: "publications"
     - Presentations: "presentations"
   Other projects:

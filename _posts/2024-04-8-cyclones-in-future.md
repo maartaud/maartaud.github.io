@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Extratropical cyclones in present and future climate
-subtitle: What insights can we gain from CMIP6's projections?
+title: "Extratropical cyclones in present and future climate"
+subtitle: "What insights can we gain from CMIP6's projections?"
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
