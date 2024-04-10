@@ -310,7 +310,7 @@ img {
   }
 
   .navbar-custom .navbar-nav {
-    padding: 10.5rem 0;
+    padding: 0.5rem 0;
   }
 
   .navbar-custom .navbar-nav .nav-link {
@@ -388,8 +388,8 @@ img {
 
 @media (max-width: 1150px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: 12rem; /* ajuste conforme necessário */
-    bottom: -12rem; /* ajuste conforme necessário */
+    width: fit-content;
+    bottom: fit-content; /* ajuste conforme necessário */
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
