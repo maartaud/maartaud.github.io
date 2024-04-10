@@ -388,8 +388,8 @@ img {
 
 @media (max-width: 1150px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: fit-content;
-    bottom: fit-content; /* ajuste conforme necessário */
+    width: 12rem; /* ajuste conforme necessário */
+    bottom: -12rem; /* ajuste conforme necessário */
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
@@ -775,7 +775,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 @media (max-width: 500px) {
   #header-gh-btns > iframe {
     display: block;
-    margin-bottom: 0.3125rem;
+    margin-bottom: 10.3125rem;
   }
 }
 
