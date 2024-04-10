@@ -392,17 +392,17 @@ img {
 }
 
 @media (max-width: 1199px) {
-  .navbar-custom.top-nav-regular .avatar-container {
+  .navbar-custom .avatar-container {
     padding-top: 5rem;
     width: 13.25rem;
     bottom: -13.25rem;
   }
 
-  .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
+  .navbar-custom .avatar-container .avatar-img-border {
     width: 100%;
   }
 
-  .navbar-custom.top-nav-regular .avatar-container .avatar-img {
+  .navbar-custom .avatar-container.avatar-img {
     width: 100%;
   }
 }
