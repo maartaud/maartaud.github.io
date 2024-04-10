@@ -1,12 +1,8 @@
 ---
-layout: page
-title:
+layout: infopost
+show-avatar: false
+title: Education
 subtitle:
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
-#tags: [test]
-#comments: true
-#mathjax: true
 ---
 ### Education:
 

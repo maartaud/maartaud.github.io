@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: infopost
+show-avatar: false
 title: About me
 subtitle: 
 ---

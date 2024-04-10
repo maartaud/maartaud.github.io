@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: infopost
 title: My publications
+show-avatar: false
 subtitle:
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
