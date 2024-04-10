@@ -786,12 +786,6 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   .intro-header {
     margin-top: 5.125rem; /* define a distance between the navbar and the header para celulares */
   }
-  .intro-header .page-heading h1 {
-    font-size: 2.5rem; /* define the size of the title */
-  }
-  .intro-header .post-heading h1 {
-    font-size: 1.825rem;
-  }
 
 #header-gh-btns {
   margin-bottom: 0.9375rem;
