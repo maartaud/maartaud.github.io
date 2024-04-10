@@ -225,7 +225,7 @@ img {
 }
 
 .navbar-custom .navbar-toggler[aria-expanded="true"] {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: rgb(255, 255, 255);
 }
 
 .dropdown-toggle::after {
@@ -250,6 +250,7 @@ img {
   .navbar-expand-xl .navbar-nav .nav-link {
     padding-left: 0.8375rem;
     padding-right: 1.8375rem;
+   
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
@@ -332,6 +333,9 @@ img {
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     padding-left: 0rem;
     padding: 0.3rem;
+  }
+  .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:first-child {
+    border-top-width: 0.1px;
   }
 }
 .navbar-custom .navbar-brand:hover,
