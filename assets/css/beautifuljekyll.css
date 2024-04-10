@@ -213,6 +213,7 @@ img {
 .navbar-toggler {
   font-size: 1rem;
   margin: 0.5rem 0;
+  padding-bottom: 5.1375rem;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
@@ -1107,23 +1108,4 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
-}
-
-@media (max-width: 1150px) {
-  .navbar-custom.top-nav-regular .avatar-container {
-    width: 13.25rem;
-    bottom: -13.25rem;
-  }
-
-  .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
-    width: 100%;
-  }
-
-  .navbar-custom.top-nav-regular .avatar-container .avatar-img {
-    width: 100%;
-  }
-}
-
-.navbar-custom .nav-item.dropdown .dropdown-menu {
-  z-index: 999999999; /* ou qualquer número grande */
 }
