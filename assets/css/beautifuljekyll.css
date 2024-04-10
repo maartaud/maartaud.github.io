@@ -317,7 +317,7 @@ img {
 
   .navbar-custom .navbar-nav .nav-link {
     padding: 0.675rem 0 0.675rem 1rem;
-    padding-bottom: 2.1375rem;
+    padding-bottom: 1.8375rem;
 
   }
 
@@ -375,6 +375,7 @@ img {
   display: none;
 }
 
+
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
     width: 13.25rem;
@@ -394,7 +395,9 @@ img {
   z-index: 999999999; /* ou qualquer número grande */
 }
 
-
+.navbar-custom.top-nav-expanded {
+  z-index: 1000000000; /* Ajuste este valor conforme necessário */
+}
 /* --- Footer --- */
 
 footer {
