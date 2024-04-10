@@ -214,6 +214,7 @@ img {
   font-size: 1rem;
   margin: 0.5rem 0;
   padding-bottom: 0.1375rem;
+  margin-bottom: 1rem;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
@@ -395,6 +396,7 @@ img {
   .navbar-custom .avatar-container {
     width: 10.25rem;
     bottom: -10.25rem;
+    margin-top: 5rem;
   }
 
   .navbar-custom .avatar-container .avatar-img-border {
@@ -418,7 +420,7 @@ img {
 footer {
   padding: 1.875rem 0;
   border-top: 1px #ffffff solid;
-  margin-top: 1.125rem;
+  margin-top: -2rem;
   font-size: 0.875rem;
   
   background-color: {{ site.footer-col | default: "#ffffff" }};
@@ -444,7 +446,7 @@ footer a:focus {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1rem;
   
 }
 footer .copyright {
@@ -773,7 +775,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 3rem; /* define the size of the title */
   }
   .intro-header .post-heading h1 {
-    font-size: 3.125rem;
+    font-size: 2.125rem;
   }
   .intro-header.big-img .img-desc {
     font-size: 0.875rem;
@@ -782,8 +784,15 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 @media (max-width: 1199px) {
   .intro-header {
-    margin-top: 10.425rem; /* define a distance between the navbar and the header para celulares */
+    margin-top: 5.125rem; /* define a distance between the navbar and the header para celulares */
   }
+    .intro-header .page-heading h1 {
+    font-size: 2.4rem; /* define the size of the title */
+  }
+  .intro-header .post-heading h1 {
+    font-size: 1.7rem;
+  }
+}
 
 #header-gh-btns {
   margin-bottom: 0.9375rem;
@@ -846,7 +855,7 @@ table {
   padding: 0;
 }
 table tr {
-  border-top: 1px solid #cccccc;
+  border-top: 1px solid #ffffff;
   background-color: #ffffff;
   margin: 0;
   padding: 0;
