@@ -417,8 +417,8 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #ffffff solid;
-  margin-top: 1.125rem;
+  border-top: 0px #ffffff solid;
+  margin-top: -2rem;
   font-size: 0.875rem;
   
   background-color: {{ site.footer-col | default: "#ffffff" }};
@@ -444,14 +444,14 @@ footer a:focus {
 footer .list-inline {
   margin: 0;
   padding: 0;
-  margin-bottom: 1.875rem;
+  margin-bottom: 1rem;
   
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-align: center;
-  margin-bottom: 0;
-  margin-top: 0;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
 }
 footer .theme-by {
   text-align: center;
@@ -782,7 +782,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 @media (max-width: 1199px) {
   .intro-header {
-    margin-top: 10.425rem; /* define a distance between the navbar and the header para celulares */
+    margin-top: 4.425rem; /* define a distance between the navbar and the header para celulares */
   }
 
 #header-gh-btns {
