@@ -760,7 +760,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (min-width: 1200px) {
   .intro-header {
-    margin-top: 10.125rem; /* define a distance between the navbar and the header */
+    margin-top: 9.625rem; /* define a distance between the navbar and the header */
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
@@ -782,7 +782,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 @media (max-width: 1199px) {
   .intro-header {
-    margin-top: 15.125rem; /* define a distance between the navbar and the header */
+    margin-top: 10.425rem; /* define a distance between the navbar and the header para celulares */
   }
 
 #header-gh-btns {
