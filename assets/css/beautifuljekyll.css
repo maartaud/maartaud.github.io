@@ -322,7 +322,7 @@ img {
   }
 
   .navbar-custom .nav-item.dropdown.show {
-    background: rgba(255, 0, 0, 1);
+    background: rgba(0, 0, 0, 0.2);
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
@@ -760,7 +760,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 @media (min-width: 1200px) {
   .intro-header {
-    margin-top: 11.125rem; /* define a distance between the navbar and the header */
+    margin-top: 10.125rem; /* define a distance between the navbar and the header */
   }
   .intro-header.big-img {
     margin-top: 5.6875rem; /* Full navbar is small navbar + 20px padding on each side when expanded */
@@ -779,6 +779,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     font-size: 0.875rem;
   }
 }
+
+@media (max-width: 1199px) {
+  .intro-header {
+    margin-top: 15.125rem; /* define a distance between the navbar and the header */
+  }
 
 #header-gh-btns {
   margin-bottom: 0.9375rem;
