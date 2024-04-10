@@ -323,8 +323,6 @@ img {
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
     padding-left: 2rem;
-    padding: 0.5rem;
-    
   }
 }
 .navbar-custom .navbar-brand:hover,
@@ -340,7 +338,7 @@ img {
   position: absolute;
   left: 50%;
   width: 3.125rem;
-  bottom: -1.5rem;
+  bottom: -5.5rem;
   transition: opacity 0.5s ease-in-out;
   -webkit-transition: opacity 0.5s ease-in-out;
   -moz-transition: opacity 0.5s ease-in-out;
@@ -389,7 +387,7 @@ img {
 }
 
 .navbar-custom .nav-item.dropdown .dropdown-menu {
-  z-index: 99999999; /* ou qualquer número grande */
+  z-index: 999999999; /* ou qualquer número grande */
 }
 
 
