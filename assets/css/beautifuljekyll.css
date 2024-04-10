@@ -386,7 +386,9 @@ img {
   }
 }
 
-
+.navbar-custom .nav-item.dropdown .dropdown-menu {
+  z-index: 99999999; /* ou qualquer número grande */
+}
 
 
 /* --- Footer --- */
