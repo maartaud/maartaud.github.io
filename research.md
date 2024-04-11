@@ -1,6 +1,6 @@
 ---
 layout: infopost
-title:
+title: Extratropical cyclones and climate change
 show-avatar: false
 subtitle:
 full-width: false
@@ -10,6 +10,6 @@ full-width: false
 #comments: true
 #mathjax: true
 ---
-### Extratropical cyclones and climate change
+
 
 
