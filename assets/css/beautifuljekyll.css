@@ -24,6 +24,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  
 }
 body > main {
   flex: 1;
@@ -39,7 +40,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
-  color: #ff4d6d;
+  color: #000000;
+
+
 
 }
 h2 {
@@ -406,7 +409,7 @@ img {
 .navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
   margin-left: -50%;
-  border: 1px dashed black;
+  border: 0px dashed black;
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
@@ -1219,3 +1222,4 @@ pre {
     display: inline-block;
   }
 }
+
