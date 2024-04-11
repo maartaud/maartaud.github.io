@@ -34,17 +34,15 @@ p {
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Lora','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
   line-height: 1.1;
 }
 h1 {
   font-size: 2.25rem;
   color: #000000;
-
-
-
 }
+
 h2 {
   font-size: 1.875rem;
   font-style: normal;
@@ -63,6 +61,15 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+
+/* Para aplicar uma formatação exclusiva para a pagina do index.html */
+
+.index-page h1 {
+  font-family: "Lora";
+  font-style: italic;
+}
+
+
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
@@ -251,8 +258,8 @@ img {
   }
 
   .navbar-expand-xl .navbar-nav .nav-link {
-    padding-left: 0.8375rem;
-    padding-right: 1.8375rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .navbar-expand-xl .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
@@ -326,6 +333,7 @@ img {
     background: rgba(255, 255, 255, 1);
 
   }
+
 
   .navbar-custom .navbar-nav .nav-link {
     text-align: center;
@@ -860,7 +868,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     margin-top: 5.125rem; /* define a distance between the navbar and the header para celulares */
   }
   .intro-header .page-heading h1 {
-    font-size: 2.4rem; /* define the size of the title */
+    font-size: 2.1rem; /* define the size of the title */
   }
   .intro-header .post-heading h1 {
     margin-top: 0rem;
@@ -868,7 +876,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header .infopost-heading h1 {
     margin-top: -0.5rem;
-    font-size: 2.1875rem;
+    font-size: 1.9rem;
   }
 }
 

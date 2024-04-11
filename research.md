@@ -3,7 +3,7 @@ layout: infopost
 title:
 show-avatar: false
 subtitle:
-full-width: true
+full-width: false
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
