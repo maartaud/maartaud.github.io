@@ -3,6 +3,9 @@ layout: post
 title: "Extratropical cyclones and climate change"
 subtitle: "What insights can we get from CMIP6's projections?"
 full-width: false
+
+thumbnail-img: /assets/img/cyclones_climatology/den_ext_cycs.png
+
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
