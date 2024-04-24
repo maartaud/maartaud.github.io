@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The role of cyclones and fronts for the Southern Hemisphere distribution of precipitation"
-subtitle: 
+title: "Precipitation associated with extratropical cyclones"
+subtitle: The role of cyclones and fronts for the precipitation distribution in Southern Hemisphere
 full-width: false
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -9,14 +9,22 @@ full-width: false
 #comments: true
 #mathjax: true
 ---
-![Cyclone density](/assets/img/den_cycs_zonalmean.png)
-**Figure 1.** *(a,b) CMIP6's projected changes for track density under SSP5-8.5 scenario and (c) the zonal means of the track density for present (HIST) and future (SSP5-8.5) climate. Black stippling indicates statistically significant changes at the 95% confidence level.*
+<br>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+    <section style="margin: 0 15px; display: flex; align-items: center; justify-content: space-between;">
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+    </section>
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+</div>
 
-![Cyclone density](/assets/img/den_ext_cycs.png)
-**Figure 2.** *Track density of extreme cyclones over the Southern Hemisphere and tracks of cyclones with the highest maximum wind speed at 850 hPa. Red and cyan crosses indicate genesis and lysis positions, respectively.*
+### *Related publications*
+**Souza, M. R.**, Piva, E. D., Nascimento, E. L., Gan, M. A., Anabor, V., Gozzo, L. F. Precipitation changes in cyclones and fronts over Southern Hemisphere in CMIP6 models. _Theoretical and Applied Climatology (in preparation)_. 2024.
 
-![Cyclone density](/assets/img/changes2_percentiles.png)
-**Figure 3.** *CMIP6's projected changes for (a) maximum relative vorticity (s⁻¹) and (b) maximum precipitation rate (mm.6hr⁻¹) throughout the cyclones lifecycle. The changes are showed in terms of percentiles. Horizontal dotted line indicates the zeroline.*
+**Souza, M. R.** "Extratropical cyclones and associated precipitation in Southern Hemisphere: present and future climate." Ph.D. diss., Federal University of Santa Maria, 2023. [https://repositorio.ufsm.br/handle/1/31129](https://repositorio.ufsm.br/handle/1/31129)
+
 
 <!--
 {: .box-success}

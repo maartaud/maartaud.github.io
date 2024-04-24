@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Storm tracks and cyclogenesis over the Southern Ocean"
-subtitle: 
+subtitle: One of the main hotspots for cyclogenesis in the Southern Hemisphere is right near Antarctica
 full-width: false
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -9,14 +9,28 @@ full-width: false
 #comments: true
 #mathjax: true
 ---
-![Cyclone density](/assets/img/den_cycs_zonalmean.png)
-**Figure 1.** *(a,b) CMIP6's projected changes for track density under SSP5-8.5 scenario and (c) the zonal means of the track density for present (HIST) and future (SSP5-8.5) climate. Black stippling indicates statistically significant changes at the 95% confidence level.*
+![Cyclone density](/assets/img/southern_ocean/Fig8.png)
+**Figure 1.**
 
-![Cyclone density](/assets/img/den_ext_cycs.png)
-**Figure 2.** *Track density of extreme cyclones over the Southern Hemisphere and tracks of cyclones with the highest maximum wind speed at 850 hPa. Red and cyan crosses indicate genesis and lysis positions, respectively.*
+![Cyclone density](/assets/img/southern_ocean/Fig2.png)
+**Figure 2.**
 
-![Cyclone density](/assets/img/changes2_percentiles.png)
-**Figure 3.** *CMIP6's projected changes for (a) maximum relative vorticity (s⁻¹) and (b) maximum precipitation rate (mm.6hr⁻¹) throughout the cyclones lifecycle. The changes are showed in terms of percentiles. Horizontal dotted line indicates the zeroline.*
+![Cyclone density](/assets/img/southern_ocean/egr_era5.png)
+**Figure 3.** *ERA5 Eady Growth Rate.*
+
+<br>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+    <section style="margin: 0 15px; display: flex; align-items: center; justify-content: space-between;">
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+    </section>
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+</div>
+
+### *Related publications*
+**Souza, M. R.**, and Piva, E. D. Storm tracks and cyclogenesis over the Southern Ocean: An overview with the HadGEM3‐GC3.1 model. _International Journal of Climatology_, v. 43, p. 7565-7587, 2023. [DOI: https://doi.org/10.1002/joc.8280](https://doi.org/10.1002/joc.8280)
 
 <!--
 {: .box-success}

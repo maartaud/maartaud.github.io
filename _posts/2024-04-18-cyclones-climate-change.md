@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Extratropical cyclones and climate change"
-subtitle: "What insights can we gain from CMIP6's projections?"
+subtitle: "What insights can we get from CMIP6's projections?"
 full-width: false
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
@@ -9,14 +9,36 @@ full-width: false
 #comments: true
 #mathjax: true
 ---
-![Cyclone density](/assets/img/den_cycs_zonalmean.png)
+![Cyclone density](/assets/img/cyclones_climatology/den_cycs_zonalmean.png)
 **Figure 1.** *(a,b) CMIP6's projected changes for track density under SSP5-8.5 scenario and (c) the zonal means of the track density for present (HIST) and future (SSP5-8.5) climate. Black stippling indicates statistically significant changes at the 95% confidence level.*
 
-![Cyclone density](/assets/img/den_ext_cycs.png)
+![Cyclone density](/assets/img/cyclones_climatology/den_ext_cycs.png)
 **Figure 2.** *Track density of extreme cyclones over the Southern Hemisphere and tracks of cyclones with the highest maximum wind speed at 850 hPa. Red and cyan crosses indicate genesis and lysis positions, respectively.*
 
-![Cyclone density](/assets/img/changes2_percentiles.png)
+![Cyclone density](/assets/img/cyclones_climatology/changes2_percentiles.png)
 **Figure 3.** *CMIP6's projected changes for (a) maximum relative vorticity (s⁻¹) and (b) maximum precipitation rate (mm.6hr⁻¹) throughout the cyclones lifecycle. The changes are showed in terms of percentiles. Horizontal dotted line indicates the zeroline.*
+
+<br>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+    <section style="margin: 0 15px; display: flex; align-items: center; justify-content: space-between;">
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+        <div style="width: 10px; height: 10px; background: #000000; border-radius: 50%; margin: 0 5px;"></div>
+    </section>
+    <div style="flex-grow: 1; height:1px; background:black;"></div>
+</div>
+
+### *Related publications*
+**Souza, M. R.**, Piva, E. D., Nascimento, E. L., Gan, M. A., Anabor, V., Gozzo, L. F. Southern Hemisphere extratropical cyclones in a warming climate: climatology, characteristics and future changes. _International Journal of Climatology (in preparation)_. 2024.
+
+**Souza, M. R.** "Extratropical cyclones and associated precipitation in Southern Hemisphere: present and future climate." Ph.D. diss., Federal University of Santa Maria, 2023. [https://repositorio.ufsm.br/handle/1/31129](https://repositorio.ufsm.br/handle/1/31129)
+
+Reboita, M. S., Rocha, R. P., **Souza, M. R.**, and Llopart, M. Extratropical cyclones
+over the southwestern South Atlantic Ocean: HadGEM2‐ES and RegCM4
+projections. _International Journal of Climatology_, v. 38, p. 2866-287, 2018. [DOI: https://doi.org/10.1002/joc.5468](https://doi.org/10.1002/joc.5468)
+
+Reboita, M. S., **Souza, M. R.**, and Rocha, R. P. Extratropical cyclones over southwestern Atlantic Ocean: present and future climates projected by RegCM4. _In: EGU General Assembly, 2017, Viena_. EGU General Assembly, 2017.
 
 <!--
 {: .box-success}
