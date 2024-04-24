@@ -3,12 +3,18 @@ layout: post
 title: "Storm tracks and cyclogenesis over the Southern Ocean"
 subtitle: One of the main hotspots for cyclogenesis in the Southern Hemisphere is right near Antarctica
 full-width: false
+thumbnail-img: /assets/img/southern_ocean/Fig2.png
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
 #comments: true
 #mathjax: true
 ---
+
+The Southern Ocean is often referred to as a "graveyard" for cyclones that originate from lower latitudes. This region has been identified by several authors as one of the most crucial areas for the cyclolysis of extratropical cyclones in the Southern Hemisphere (SH). While several cyclones from the mid-latitudes travel towards the coast of Antarctica to die, the same region represents one of the largest hotspots for the formation of new cyclones (cyclogenesis) in the SH.
+
+_to be continued.._
+
 ![Cyclone density](/assets/img/southern_ocean/Fig8.png)
 **Figure 1.**
 
