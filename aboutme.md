@@ -16,5 +16,5 @@ On my days off, you probably can find me among mountains, trails, and dust.
 <p align="center">
     <img src="/assets/img/eu3.png" alt="Este cara sou eu!" style="width: 60%;">
     <br>
-    <i>Hey, this is me?</i>
+    <i>Hey, is this me?</i>
 </p>
