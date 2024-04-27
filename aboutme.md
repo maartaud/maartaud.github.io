@@ -11,7 +11,7 @@ Under the supervision of Dr. Everson Dal Piva, my Ph.D. dissertation focused on 
 
 My research interests include synoptic and mesoscale meteorology, extreme events, climate change, and numerical modeling.
 
-On my days off, you probably can find me among mountains, trails, and dust.
+On my days off, you can meet me among mountains, trails, and dust.
 
 <p align="center">
     <img src="/assets/img/eu3.png" alt="Este cara sou eu!" style="width: 60%;">
