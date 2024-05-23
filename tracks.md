@@ -15,7 +15,7 @@ I will soon provide extratropical cyclone track data across the globe (1991-2020
 
 
 ![Track densities SH](/assets/img/teste_cycden.gif)
-<div style="text-align: justify"><i>The animation above shows the monthly climatological mean of the track density (number of cyclones per 5° spherical cap per month) for the Southern Hemisphere.
+<div style="text-align: justify"><i>The animation above shows the monthly climatological mean of the track density (number of cyclones tracks per 5° spherical cap per month) for the Southern Hemisphere.
 It is very interesting how the distribution of tracks evolves into a distinct ring-like pattern around Antarctica during summer.</i></div>
 
 
