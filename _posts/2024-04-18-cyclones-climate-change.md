@@ -4,16 +4,41 @@ title: "Extratropical cyclones and climate change"
 subtitle: "What insights can we get from CMIP6's projections?"
 full-width: false
 
-thumbnail-img: /assets/img/cyclones_climatology/den_ext_cycs.png
-
+#thumbnail-img: /assets/img/cyclones_climatology/den_ext_cycs.png
+thumbnail-img: /assets/img/teste_cycden.gif
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
 #comments: true
 #mathjax: true
 ---
+![Track densities SH](/assets/img/teste_cycden.gif)
+<div style="text-align: justify"><i>The animation above shows the current monthly climatological mean of the track density (number of cyclone tracks per 5° spherical cap per month) for the Southern Hemisphere.
+It is very interesting how the distribution of tracks evolves into a distinct ring-like pattern around Antarctica during summer.
+</i></div><p></p>
+
+<div align="justify">
+Extratropical cyclones play a critical role in distributing heat, moisture, and momentum across different regions of the planet. They are the main atmospheric systems driving weather patterns between the subtropics and high latitudes. For people living in these areas, the experienced changes in temperature, humidity, and weather conditions like rain, snow, wind gusts, and coastal storm surges are frequently influenced, directly or indirectly, by the passage of extratropical cyclones and their associated fronts. Therefore, it is natural to ask some questions:
+</div><p></p>
+
+* Will climate change impact these systems' frequency and current distribution? <br>
+* If so, at what magnitude can we expect to feel these changes?
+<p></p>
+
+<div align="justify">
+In this research, we aim to provide some insights into these questions. By applying an automatic method for tracking extratropical cyclones across the Southern Hemisphere and using data from a ensemble of CMIP6 models and the ERA5 reanalysis, we show that there is a significant projection of a migration of the cyclones tracks towards higher latitudes in both winter and summer seasons (Fig. 1a,b), but this change is more clear and robust for the summer (Fig. 1c).
+</div><p></p>
+
 ![Cyclone density](/assets/img/cyclones_climatology/den_cycs_zonalmean.png)
-**Figure 1.** *(a,b) CMIP6's projected changes for track density under SSP5-8.5 scenario and (c) the zonal means of the track density for present (HIST) and future (SSP5-8.5) climate. Black stippling indicates statistically significant changes at the 95% confidence level.*
+**Figure 1.** *(a,b) CMIP6's projected changes for track density under SSP5-8.5 scenario and (c) the zonal means of the track density for present (HIST) and future (SSP5-8.5) climate in winter (solid lines) and summer (dashed lines) seasons. Black stippling indicates statistically significant changes at the 95% confidence level.*
+
+Another important results from this work are:
+
+* ~4% reduction in cyclone frequency when considering all the Southern Hemisphere;
+* The projected changes in frequency exhibit some variability in both signal and magnitude across the ocean basins (South Atlantic, South Pacific, Indian and Southern Ocean);
+* Increase in the frequency of extreme cyclones (98th percentile);
+* Increase in the average propagation speed of the systems.
+
 
 ![Cyclone density](/assets/img/cyclones_climatology/den_ext_cycs.png)
 **Figure 2.** *Track density of extreme cyclones over the Southern Hemisphere and tracks of cyclones with the highest maximum wind speed at 850 hPa. Red and cyan crosses indicate genesis and lysis positions, respectively.*
