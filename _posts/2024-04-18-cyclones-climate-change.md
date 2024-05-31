@@ -22,7 +22,7 @@ Extratropical cyclones play a critical role in distributing heat, moisture, and 
 </div><p></p>
 
 * Will climate change impact these systems' frequency and current distribution? <br>
-* If so, at what magnitude can we expect to feel these changes?
+* If so, at what magnitude can we expect these changes to occur?
 <p></p>
 
 <div align="justify">
