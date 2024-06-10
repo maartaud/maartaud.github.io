@@ -3,12 +3,15 @@ layout: post
 title: "Precipitation associated with extratropical cyclones"
 subtitle: The role of cyclones and fronts for the precipitation distribution in Southern Hemisphere
 full-width: false
+thumbnail-img: /assets/img/precipitation/comp.gif
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
 #tags: [test]
 #comments: true
 #mathjax: true
 ---
+![Track densities SH](/assets/img/precipitation/comp.gif){: width="800"}
+
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex-grow: 1; height:1px; background:black;"></div>
