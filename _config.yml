@@ -21,15 +21,12 @@ author: Marcelo Souza
 
 navbar-links:
   Home: "index"
-  Research:
+  My Research:
     - Extratropical cyclones and climate change: "/2024-04-18-cyclones-climate-change/"
     - Precipitation associated with extratropical cyclones: "/2024-04-08-associated-precipitation/"
     - Storm tracks and cyclogenesis over the Southern Ocean: "/2024-04-04-southern-ocean-cyclones/"
-    - Publications: "publications"
     #- Presentations: "presentations"
-  Other projects:
-    - Project 1: "project1"
-    - Project 2: "project2"
+  Publications: "publications"
   Tracks: "tracks"
   About:
     - About me: "aboutme"

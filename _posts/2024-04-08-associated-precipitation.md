@@ -12,6 +12,9 @@ thumbnail-img: /assets/img/precipitation/comp.gif
 ---
 ![Track densities SH](/assets/img/precipitation/comp.gif){: width="800"}
 
+![Cyclone density](/assets/img/precipitation/tp_cext_hist_jja2.png)
+<sub>**Figure 1.**</sub>
+
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="flex-grow: 1; height:1px; background:black;"></div>
