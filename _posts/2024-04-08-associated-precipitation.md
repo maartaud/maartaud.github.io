@@ -10,9 +10,14 @@ thumbnail-img: /assets/img/precipitation/comp.gif
 #comments: true
 #mathjax: true
 ---
-![Track densities SH](/assets/img/precipitation/comp.gif){: width="800"}
 
-![Cyclone density](/assets/img/precipitation/tp_cext_hist_jja2.png)
+<div align="justify">
+Approximately 70 to 90% of the total precipitation that occurs in many regions across the mid and high latitudes in the Southern Hemisphere is directly caused by extratropical cyclones and their associated fronts. The damage potential of precipitation from these systems is quite significant, potentially resulting in billion-dollar economic losses and posing great risks to human life, such as floods, landslides in highly vulnerable areas, crop losses, and damage to urban infrastructure in general.
+</div><p></p>
+
+![Cyclone precipitation](/assets/img/precipitation/comp.gif){: width="800"}
+
+![Associated precipitation](/assets/img/precipitation/tp_cext_hist_jja2.png)
 <sub>**Figure 1.**</sub>
 
 <br>
